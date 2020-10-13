@@ -6,5 +6,7 @@ public class TodayIsTuesday {
 
 
          //there are many people missing from our group which is quite unfortunate. We cannot work together!
+
+        //it would have been nice if we had more people among our group members.
     }
 }
