@@ -4,5 +4,6 @@ public class MehmetA {
 
         System.out.println("Collaboration in group is super");
         System.out.println("Group working is difficult");
+        System.out.println("Just say goodbye");
     }
 }
